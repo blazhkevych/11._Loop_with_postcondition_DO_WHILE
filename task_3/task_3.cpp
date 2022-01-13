@@ -12,7 +12,12 @@ int main()
 {
 	setlocale(LC_ALL, ""); // работает только с потоком вывода
 
+	int number_1{ 0 }, number_1{ 0 }, number_1{ 0 },рпмрпарп
+		number_1{ 0 }, number_1{ 0 }, number_1{ 0 },
+		number_1{ 0 }, number_1{ 0 }, number_1{ 0 },
+		number_1{ 0 };
 
+	cout<<""
 
 	return 0;
 }
